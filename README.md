@@ -13,6 +13,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Especia
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
 ![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-05122A?style=flat&logo=kaspersky)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kali-linux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
