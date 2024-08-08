@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web, C# (.NET), SQL e cibersegurança, e adoro trabalhar em projetos desafiadores.
+Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web, C# (.NET), SQL e cibersegurança, e gosto de trabalhar em projetos desafiadores.
 
 - 💬 Pergunte-me sobre: Desenvolvimento web, C# (.NET), SQL, Cibersegurança
 - 📫 Como me encontrar: [l.henriquerbf07@gmail.com]
