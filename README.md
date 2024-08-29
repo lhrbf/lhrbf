@@ -4,13 +4,14 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Especializo-me em desenvolvimento web, C# (.NET), SQL e cibersegurança, e gosto de trabalhar em projetos desafiadores.
 
-- 💬 Pergunte-me sobre: Desenvolvimento web, C# (.NET), SQL, Cibersegurança
+- 💬 Pergunte-me sobre: Desenvolvimento web, Python, C# (.NET), SQL, Cibersegurança
 - 📫 Como me encontrar: [l.henriquerbf07@gmail.com]
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
 ![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-05122A?style=flat&logo=kaspersky)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kali-linux)
