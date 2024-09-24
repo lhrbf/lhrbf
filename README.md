@@ -1,14 +1,13 @@
 ## 🚀 Sobre mim
-Apaixonado por transformar dados em valor. Com sólida experiência em SQL, Python, Cloud Computing e C#, especializo-me em projetar e implementar pipelines de dados robustos e eficientes. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a manipulação e análise de dados até a construção de interfaces web intuitivas. Meu foco é entregar soluções de alta qualidade que impulsionem a tomada de decisões baseadas em dados.
+Apaixonado por transformar dados em valor. Com sólida experiência em SQL, NoSQL, Python, PHP, Cloud Computing e C#, especializo-me em projetar e implementar pipelines de dados robustos e eficientes. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a manipulação e análise de dados até a construção de interfaces web intuitivas. Meu foco é entregar soluções de alta qualidade que impulsionem a tomada de decisões baseadas em dados.
 
-## 🌐 REDES SOCIAS
+## 🌐 REDES SOCIAIS
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+81+982600282)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+81+999885502)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@el_rique/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:l.henriquerbf07@gmail.com)
-
 
 ### LINGUAGENS DE PROGRAMAÇÃO
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,6 +15,7 @@ Apaixonado por transformar dados em valor. Com sólida experiência em SQL, Pyth
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### LINGUAGENS DE MARCAÇÃO E ESTILO
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,11 +25,13 @@ Apaixonado por transformar dados em valor. Com sólida experiência em SQL, Pyth
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
 ### BANCO DE DADOS
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### SISTEMAS OPERACIONAIS
 - ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
@@ -45,6 +47,7 @@ Apaixonado por transformar dados em valor. Com sólida experiência em SQL, Pyth
 ### FERRAMENTAS
 - ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhrbf&theme=transparent&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF)
