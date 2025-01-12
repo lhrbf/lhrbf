@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Apaixonado por transformar dados em valor. Com sólida experiência em SQL, NoSQL, Python, PHP, Cloud Computing e C#, especializo-me em projetar e implementar pipelines de dados robustos e eficientes. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a manipulação e análise de dados até a construção de interfaces web intuitivas. Meu foco é entregar soluções de alta qualidade que impulsionem a tomada de decisões baseadas em dados.
+Com sólida experiência em SQL, NoSQL, Python, PHP, React JS/Native, Node.JS e C#, especializo-me em desenvolvimento full stack. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a manipulação e análise de dados até a construção de interfaces web intuitivas. 
 
 ## 🌐 REDES SOCIAIS
 
