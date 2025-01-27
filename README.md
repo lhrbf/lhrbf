@@ -9,7 +9,7 @@ Com sólida experiência em  HTML, CSS, JavaScript, React JS, React Native, Node
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:l.henriquerbf07@gmail.com)
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/lu%C3%ADs-fraga-93b504349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### LINGUAGENS DE PROGRAMAÇÃO
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
