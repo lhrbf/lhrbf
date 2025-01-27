@@ -47,9 +47,9 @@ Com sólida experiência em  HTML, CSS, JavaScript, React JS, React Native, Node
 ### FERRAMENTAS
 - ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt= "Node JS logo" />
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="65" alt="NPM logo" />
-- <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)" img width="80" alt="Composer logo" />
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60" alt= "Node JS logo" />
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="70" alt="NPM logo" />
+- <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)" img width="90" alt="Composer logo" />
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhrbf&theme=transparent&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF)
