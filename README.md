@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Com sólida experiência em SQL, NoSQL, Python, PHP, React JS/Native, Node.JS e C#, especializo-me em desenvolvimento full stack. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a manipulação e análise de dados até a construção de interfaces web intuitivas. 
+Com sólida experiência em  HTML, CSS, React JS, React Native, Node.JS, Python, PHP, SQL, NoSQL. especializo-me em desenvolvimento full stack. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a manipulação e análise de dados até a construção de interfaces web intuitivas. 
 
 ## 🌐 REDES SOCIAIS
 
