@@ -1,57 +1,64 @@
 ## 🚀 Sobre mim
-Com sólida experiência em  HTML, CSS, JavaScript, React JS, React Native, Node.JS, PHP, SQL, NoSQL. especializo-me em desenvolvimento full stack. Tenho uma forte base em desenvolvimento web, o que me permite criar soluções completas e integradas, desde a criação e manipulação de dados até a construção de interfaces web intuitivas. 
+Sou desenvolvedor **Full Stack**, com sólida experiência em **HTML, CSS, JavaScript, React JS, React Native, Next.js, Node.js, C#, .NET, SQL e NoSQL**.  
+Tenho uma base forte em **desenvolvimento web tradicional**, o que garante domínio de fundamentos e me permite criar **soluções completas, escaláveis e bem estruturadas**, do backend ao frontend.
 
-## 🌐 REDES SOCIAIS
+Atuo também com **UX/UI**, focando em interfaces claras, funcionais e orientadas à experiência do usuário e conversão.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+81+999885502)
+---
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@el_rique/)
+## 🌐 Redes Sociais
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:l.henriquerbf07@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999885502)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/el_rique)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luishrbfdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-fraga-93b504349)
 
-<a href="https://www.linkedin.com/in/lu%C3%ADs-fraga-93b504349">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" alt="LinkedIn Logo"/>
-  <span style="font-size: 20px; font-weight: bold; margin-left: 10px;">LinkedIn</span>
-</a>
+---
 
-### LINGUAGENS DE PROGRAMAÇÃO
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![SQL Badge](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-- ![NoSQL Badge](https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=FFFFFF&color=47A248)
+## 💻 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### LINGUAGENS DE MARCAÇÃO E ESTILO
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### BIBLIOTECAS E FRAMEWORKS
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+## 🧩 Linguagens de Marcação e Estilo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### BANCO DE DADOS
-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-### SISTEMAS OPERACIONAIS
-- ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-- ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+## ⚙️ Frameworks, Bibliotecas e Runtimes
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### CLOUD COMPUTING
-- ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF)
-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+---
 
-### FERRAMENTAS
-- ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60" alt= "Node JS logo" />
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="70" alt="NPM logo" />
-- <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)" img width="90" alt="Composer logo" />
+## 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhrbf&theme=transparent&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF)
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lhrbf&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
+## ☁️ Cloud & Deploy
+![Azure](https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+---
+
+## 🎨 UX / UI
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+---
+
+## 🛠️ Ferramentas
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
