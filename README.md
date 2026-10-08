@@ -25,7 +25,6 @@ Atualmente, meu foco está em **Front-end, Next.js, desenvolvimento web, perform
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 ---
 
