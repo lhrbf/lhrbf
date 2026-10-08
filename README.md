@@ -51,4 +51,37 @@ Atualmente, meu foco está em **Front-end, Next.js, desenvolvimento web, perform
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb&)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## ☁️ Cloud & Deploy
+
+![Azure](https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge\&logo=microsoftazure\&logoColor=0078D4)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+
+---
+
+## 🔎 SEO & Performance
+
+![Google Search](https://img.shields.io/badge/Google%20Search-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge\&logo=google\&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
+![Screaming Frog](https://img.shields.io/badge/Screaming%20Frog-22A447?style=for-the-badge\&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge\&logo=lighthouse\&logoColor=white)
+
+---
+
+## 🎨 UX / UI
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 🛠️ Ferramentas
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
